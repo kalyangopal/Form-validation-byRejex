@@ -1,0 +1,21 @@
+body{
+    background-color: coral;
+     text-align: center;
+     
+}
+
+span{
+    display: none;
+    color: white;
+    margin-left: 50px;
+}
+input{
+    margin-top: 10px;
+    width: 250px;
+    
+}
+button{
+    margin-top: 10px ;
+    cursor: pointer;
+    background-color: rgb(221, 245, 133);
+}
